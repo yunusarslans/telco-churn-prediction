@@ -93,14 +93,6 @@ jupyter notebook notebooks/churn_prediction.ipynb
 
 ---
 
-## 💡 Future Improvements
-
-- Deploy model as a REST API (e.g., Flask or FastAPI)
-- Add SHAP interpretability for model explainability
-- Integrate real-time prediction from user input
-- Monitor model drift and update periodically
-
----
 
 ## 👨‍💻 Author
 
